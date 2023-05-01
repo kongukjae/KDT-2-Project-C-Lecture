@@ -1,1 +1,1 @@
-![Figma Link](https://www.figma.com/embed?embed_host=share&url=https%3A%2F%2Fwww.figma.com%2Ffile%2FAN0H3cZ825GiklL6Ccr0de%2FProject-C-Lecture%3Ftype%3Ddesign%26node-id%3D0%253A1%26t%3DJLYo1gg8qkf7dVqR-1)
+![Figma Link](https://www.figma.com/file/AN0H3cZ825GiklL6Ccr0de/Project-C-Lecture?type=design&node-id=0%3A1&t=JLYo1gg8qkf7dVqR-1)
