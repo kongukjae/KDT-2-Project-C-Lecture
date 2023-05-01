@@ -1,1 +1,2 @@
-![Figma Link](https://www.figma.com/file/AN0H3cZ825GiklL6Ccr0de/Project-C-Lecture?type=design&node-id=0%3A1&t=JLYo1gg8qkf7dVqR-1)
+<a href="https://www.figma.com/file/AN0H3cZ825GiklL6Ccr0de/Project-C-Lecture?type=design&node-id=0%3A1&t=JLYo1gg8qkf7dVqR-1">Figma Prototype</a>
+<a href="https://www.figma.com/file/NgO84mFFJBe5GMb8hYFbw5/Project-C-Board?type=whiteboard&node-id=0%3A1&t=5p9kfRdPoBnOy97k-1">Figma board</a>
