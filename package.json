@@ -16,9 +16,6 @@
   "bugs": {
     "url": "https://github.com/kongukjae/KDT-2-Project-C-Lecture/issues"
   },
-<<<<<<< HEAD
-  "homepage": "https://github.com/kongukjae/KDT-2-Project-C-Lecture#readme"
-=======
   "homepage": "https://github.com/kongukjae/KDT-2-Project-C-Lecture#readme",
   "devDependencies": {
     "webpack": "^5.81.0",
@@ -27,5 +24,4 @@
 
   "type": "module"
 
->>>>>>> origin/kongukjae/issue8
 }
