@@ -1,0 +1,1 @@
+// 정적인 javascript 파일
