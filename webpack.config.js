@@ -58,5 +58,22 @@ module.exports = {
         }
       ]
     })
-  ]
+  ],
+
+  module : {
+    rules: [
+      {
+        // * @property {RegExp} test - 로더가 적용될 파일 경로를 지정하는 정규식.
+        test: /\.css$/,
+        // * @property {Array} use - 적용할 로더를 설정.
+        // ! 로더는 오른쪽에서 왼쪽 순서로 적용됨.
+        // ! css-loader : css 파일을 읽어서 자바스크립트에서 사용할 수 있게 변환
+        // ! style-loader : 자바스크립트로 변경된 스타일을 동적으로 돔에 추가
+        // * css는 '마크업' 이고, style객체는 DOM API key이기 때문에 적재하는 순서가 중요하다.
+        use: ["style-loader", "css-loader"]
+      }
+    ]
+  }
+
+
 };
