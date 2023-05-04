@@ -6,3 +6,5 @@
  * 
  * 
  */
+require("./assets/css/index.css");
+require("./assets/css/bundle-test-1.css");
