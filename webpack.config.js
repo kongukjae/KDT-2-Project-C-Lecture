@@ -39,6 +39,11 @@ module.exports = {
 
 
   plugins: [
+
+
+
+
+
     // * @property {Object} plugins - 웹팩 플러그인 설정 객체.
     new HtmlWebpackPlugin({
       // * @property {string} template - 템플릿 HTML 파일 경로.
@@ -46,6 +51,11 @@ module.exports = {
       // * @property {string} filename - 결과 파일 이름.
       filename: "test.html"
     }),
+
+    
+  
+
+
     // * @property {Object} plugins - 웹팩 플러그인 설정 객체.
     new CopyWebpackPlugin({
       // * @property {Array} patterns - 복사할 파일 목록.
@@ -57,7 +67,12 @@ module.exports = {
           to: "./assets"
         }
       ]
-    })
+    }),
+
+
+
+
+
   ],
 
   module : {
