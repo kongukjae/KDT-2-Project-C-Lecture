@@ -22,7 +22,7 @@ const path = require("path");
 module.exports = {
 
   // * @property {string} mode - 빌드 모드. 'development' 또는 'production' 중 선택.
-  mode: "production",
+  mode: "development",
   // * @property {string} entry - 애플리케이션의 진입점. JS 파일 경로.
   entry: "./src/index.js",
 
