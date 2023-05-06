@@ -22,3 +22,7 @@ const http = require('http');
 const app = require('./app');
 const port = 1234;
 
+const server = http.createServer(app);
+server.listen(port, () => {
+  console.log(`서버가 여기에서 ${port} 돌아간다 에헤라디야`);
+});
