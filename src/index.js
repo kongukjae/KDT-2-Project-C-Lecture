@@ -17,3 +17,8 @@
  */
 require("./assets/css/index.css");
 require("./assets/css/bundle-test-1.css");
+
+const http = require('http');
+const app = require('./app');
+const port = 1234;
+
