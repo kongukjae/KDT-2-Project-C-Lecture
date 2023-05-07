@@ -7,5 +7,18 @@
  */
 
 module.exports = function (request, response) {
-  
+  if(request.method === "GET") {
+
+  }
+  else if(request.method === "POST") {
+  }
+  else if(request.method === "PATCH") {
+    // 소개 예정
+  }
+  else if(request.method === "PUT") {
+    // 소개 예정
+  } 
+  else if(request.method === "DELETE") {
+    // 소개 예정
+  }
 }
