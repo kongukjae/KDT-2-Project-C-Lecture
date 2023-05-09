@@ -18,6 +18,14 @@ module.exports = function (request, response) {
     // 어지간한건 모두 번들링해서 보내주는것이 좋겠다.
   }
   else if(request.method === "POST") {
+
+    // 컴포넌트에 post 처리 해볼만한 아이디어
+    // 훈련생 과제물 제출
+    // 훈련생 파일 업로드
+    // 훈련생 메타데이터 정보 제출
+    // 훈련생 개인 프로필 및 결석, 지각 사유 작성 및 제출
+    // 공결 처리 안내 파일 업로드
+    
   }
   else if(request.method === "PATCH") {
     // 소개 예정
