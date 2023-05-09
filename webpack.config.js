@@ -17,6 +17,9 @@
 const HtmlWebpackPlugin = require("html-webpack-plugin");
 const path = require("path");
 
+// 바벨 설치 관련 정보 수집하고, 난이도별로 나누어 설명하기
+
+
 module.exports = {
 
   // * 배포, 개발 모드 설정
