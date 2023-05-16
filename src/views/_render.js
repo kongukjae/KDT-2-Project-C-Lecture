@@ -1,4 +1,4 @@
-module.exports = function(title, components) {
+module.exports = (title, components) => {
   const content = components.map(component => component()).join('');
 
   return `
