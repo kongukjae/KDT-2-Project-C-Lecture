@@ -22,6 +22,9 @@
  */
 
 module.exports = ({ tagName = "div", attributes = {}, children = [] } = {}) => {
+  // todo : default parameter 개념
+  // work : 1. 기본 형태
+  // work : 2. 위에 구조가 무엇을 의미하는지, nesting 된 상태를 어떻게 표현하는지 여부
   // 태그 속성을 문자열로 변환하는 변수
   let attributeString = "";
 
